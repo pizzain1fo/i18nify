@@ -1,0 +1,1 @@
+https://github.com/edgePawn/stripe-node.gi
